@@ -1,6 +1,6 @@
 	📊 Cursando o nível superior de Tecnologia em Ciência de Dados na Anhanguera,
 	💉 Farmacêutico formado pela Universidade Federal Fluminense, 
-	👔 Bucando minha pimeira oportunidade de atuar na área de Dados. 
+	👔 Bucando minha primeira oportunidade de atuar na área de Dados. 
 	📈 Entusiasmado para usar o poder da programação e investigar ideias na área da saúde.
 <!---
 gabrielsosil/gabrielsosil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
